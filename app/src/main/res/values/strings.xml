@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">UploadVideoToYoutube</string>
+    <string name="page_description">Select Video And Upload It To Youtube\nputuguna[dot]com||www.androidbie.tk</string>
+    <string name="label_select_video">Select Video</string>
+    <string name="label_upload_video">Upload Video</string>
+    <string name="label_uploading_via">Upload video via:</string>
+    <string name="label_video_description">Your video descriptions</string>
+    <string name="label_video_title">Your video title</string>
+    <string name="msg_failed_to_select_video">Failed to select video</string>
+    <string name="msg_canceling">Canceling</string>
+</resources>
